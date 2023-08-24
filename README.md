@@ -1,9 +1,9 @@
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# h1 Heading hello this is my website on github
+## h2 Heading Still figuring it out
+### h3 Heading qwe
+#### h4 Heading rty
+##### h5 Heading uio
+###### h6 Heading p[[
 
 Alternatively, for H1 and H2, an underline-ish style:
 
