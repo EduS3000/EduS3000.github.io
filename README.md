@@ -9,10 +9,10 @@
 ## Results:
 
 ### The simulationas and synthetic ECG collection ran well and initially the ECG datasets for 2 patches of rotors surrounding 30,30 and 70,70 were collected. Once this worked well, more points were chosen and ECGs collected around these points (points visualised in Figure %%. For these points focal initiations were also completed to have a completed dataset of Rotor and Focal points for all 9 initiation points.
-There were 3 main tasks for this project:
-  1) CNN for binary classification for 2 initiation points
-  2) Rotor vs Spiral binary classification
-  3) Rotor classification initiated at various locations
+### There were 3 main tasks for this project:
+###   1) CNN for binary classification for 2 initiation points
+###   2) Rotor vs Spiral binary classification
+###   3) Rotor classification initiated at various locations
 ----------
 
 
