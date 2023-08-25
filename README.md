@@ -14,4 +14,4 @@ Alt-H1
 Alt-H2
 ------
 
-theme: Architect
+theme: minima
